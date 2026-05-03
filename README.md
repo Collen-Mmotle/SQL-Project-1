@@ -27,13 +27,13 @@ Higher-performing products generate more revenue and sales volume, while lower-p
 The business demonstrates strong performance overall, with high total revenue, a healthy profit margin, consistent order activity and a solid customer base, indicating stable and efficient operations.
 
 ## This is what it means for the business
-Encourage higher spending through bundles, cross-selling, and loyalty rewards.
+Encourage higher spending through bundles, cross-selling and loyalty rewards.
 
 Reduce heavy discounting to protect and improve profit margins.
 
 Improve customer experience to increase repeat purchases and retention.
 
-Focus on strong products and review or improve weaker ones
+Focus on strong products and review or improve weaker ones.
 
 ## Skills used
 SQL (basic to advanced)  
